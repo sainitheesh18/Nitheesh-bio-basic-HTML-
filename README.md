@@ -12,3 +12,4 @@ Being a TECH enthusiast I had learnt many technologies like
 Besides that I am a sports person who plays Cricket,Basketball regularly and participates in tournaments at times.
 
 Did a Mini-Project on the theme of "Developing a women safety application to prevent CyberFrauds".
+@Bye-Bye
